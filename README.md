@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](https://metrics.lecoq.io/ZJU-FrankGu?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZJU-FrankGu&theme=xcode" /> </div>
