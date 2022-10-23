@@ -1,6 +1,4 @@
-### Hi there 👋
-Here are some ideas to get you started:
-
+### Hi there 👋 I'm FrankGu🚀
 - 🔭 I’m currently studying in ZJU
 - 🌱 I’m currently learning c++
 - 👯 I’m a member of QSCTech
