@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm FrankGu🚀
 - 🔭 I’m currently studying in ZJU
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ & 李宏毅
 - 👯 I’m a member of QSCTech
 - ⚡ Fun fact: Create Videos
 
