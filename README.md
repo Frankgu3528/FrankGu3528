@@ -10,6 +10,9 @@
 ![](https://camo.githubusercontent.com/8300af1f25068f77706b84b6e264f1aeded1142d1e068a799979f2f6877e2175/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373661623f6c6f676f3d707974686f6e266c6f676f436f6c6f723d666666)
 ![](https://camo.githubusercontent.com/540347a60f6775067ba8c9a9af0154fa80a62c4be2b8feb1d6fb1740590f6e22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f6c6f676f3d6c696e7578266c6f676f436f6c6f723d303030)
 
+
+![](https://frank-first.oss-cn-hangzhou.aliyuncs.com/images/204754749-ba2705ba-0844-4079-8f5e-2a90d5fb634b.jpg)
+
 <!--
 **ZJU-FrankGu/ZJU-FrankGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/ZJU-FrankGu?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/ZJU-FrankGu?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai) -->
+
 
