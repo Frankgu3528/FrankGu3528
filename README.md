@@ -4,7 +4,7 @@
 - ✨ I’m interested in Deep Learning
 - 👯 I’m a member of QSCTech
 - ⚡ Fun fact: Photography@Nikon
-- Hates** MATLAB** since it's an evil language
+- Hates **MATLAB** since it's an evil language
 - 
 ![](https://camo.githubusercontent.com/e24defe32bf8de01aa09c2dfb0b037b26afda186193da2cbb465eb8d1071dca2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532422532422d3030353939633f6c6f676f3d63253242253242266c6f676f436f6c6f723d666666)
 ![](https://camo.githubusercontent.com/024e437af77d43c7ccbd0097f63da9e0a9eda39eab10fdbd92f23a40d593450e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666)
