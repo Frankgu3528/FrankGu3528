@@ -1,4 +1,4 @@
-# Hi there
+# Diving into the world of AI is fun， isn't it?
 
 I’m currently majoring in statistics in Zhejiang University. 
 
