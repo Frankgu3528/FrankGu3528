@@ -1,4 +1,4 @@
-# Diving into the world of AI is fun， isn't it?
+# We will reach a world of AGI ultimately
 
 I’m currently majoring in statistics in Zhejiang University. 
 
