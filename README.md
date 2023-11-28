@@ -1,6 +1,6 @@
 # We will reach a world of AGI ultimately
 
-I’m currently majoring in statistics in Zhejiang University. 
+I’m currently a junior in Zhejiang University, majoring in statistics. And I'm also a member of QSCTECH。 
 
 I have a wild interest in many fields, not only includes causal inference/Deep Learning theory.
 I used to  worked in [Center for Data Science](http://cds.zju.edu.cn/) to apply some Deep model to tabular and time series data.
