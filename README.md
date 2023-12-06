@@ -1,5 +1,10 @@
 # We will reach a world of AGI ultimately
-
+<a href="https://github.com/FrankGu3528">
+  <img src="https://img.shields.io/github/followers/FrankGu3528">
+</a>
+<a href="https://github.com/FrankGu3528">
+   <img src="https://komarev.com/ghpvc/?username=FrankGu3528">
+</a>
 I’m currently a junior in Zhejiang University, majoring in statistics. And I'm also a member of [QSCTech](https://github.com/QSCTech)。 
 
 I have a wild interest in many fields, not only includes causal inference/Deep Learning theory.
