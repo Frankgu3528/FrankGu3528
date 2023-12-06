@@ -11,6 +11,7 @@ I’m currently a junior in Zhejiang University, majoring in statistics. And I'm
 
 I have a wild interest in many fields, not only includes causal inference/Deep Learning theory.
 I used to  worked in [Center for Data Science](http://cds.zju.edu.cn/) to apply some Deep model to tabular and time series data.
+
 Now I am working on training some big model to EEG data to create some thrilling BCI projecta at [BrainNet](https://github.com/ZJU-BrainNet).
 
 Becides research, I'm also a fan of:
