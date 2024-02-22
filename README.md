@@ -19,7 +19,7 @@
 【[My Home Page](https://frankgu3528.github.io)】
 
 I’m currently a junior in Zhejiang University, majoring in statistics. And I used to be a member of [QSCTech](https://github.com/QSCTech)。 
-I spent two and a half in Hang Zhou，Now I am studying in HKUST, Hong Kong. 
+I spent two and a half year in Hang Zhou，Now I am studying in HKUST, Hong Kong. 
 
 I have a wild interest in many fields. Currently my reseach interest is on data mining and Large Language Models.
 
