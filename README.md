@@ -18,12 +18,12 @@
 
 【[My Home Page](https://frankgu3528.github.io)】
 
-I’m currently a junior in Zhejiang University, majoring in statistics. And I'm also a member of [QSCTech](https://github.com/QSCTech)。 
+I’m currently a junior in Zhejiang University, majoring in statistics. And I used to be a member of [QSCTech](https://github.com/QSCTech)。 
+I spent two and a half in Hang Zhou，Now I am studying in HKUST, Hong Kong. 
 
-I have a wild interest in many fields, not only includes causal inference/Deep Learning theory.
-I used to  worked in [Center for Data Science](http://cds.zju.edu.cn/) to apply some Deep model to tabular and time series data.
+I have a wild interest in many fields. Currently my reseach interest is on data mining and Large Language Models.
 
-Now I am working on training some big model to EEG data to create some thrilling BCI projects at [BrainNet](https://github.com/ZJU-BrainNet).
+I used to  worked in [Center for Data Science](http://cds.zju.edu.cn/) to apply some Deep model to tabular and time series data.Now I am working on training some big model to EEG data to create some thrilling BCI projects at [BrainNet](https://github.com/ZJU-BrainNet). You can visit my homepage to learn more.
 
-Becides research, I'm also a fan of photography.
+Becides research, I'm also a fan of photography. I am fond of collecting old camaras and visit new places. 
 
