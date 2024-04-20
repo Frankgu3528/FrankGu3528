@@ -25,5 +25,5 @@ I have a wild interest in many fields. Currently my reseach interest is on data 
 
 I used to  worked in [Center for Data Science](http://cds.zju.edu.cn/) to apply some Deep model to tabular and time series data.Now I am working on training some big model to EEG data to create some thrilling BCI projects at [BrainNet](https://github.com/ZJU-BrainNet). You can visit my homepage to learn more.
 
-Becides research, I'm also a fan of photography. I am fond of collecting old camaras and visit new places. 
+Becides research, I'm also a fan of photography. I am fond of collecting old camaras and visit new places. Also，I am a enthusiastic quant trader, I trade stocks, crypto and gold.
 
