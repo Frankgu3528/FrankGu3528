@@ -10,9 +10,9 @@
 </a>
 
 I’m currently a junior in Zhejiang University, majoring in statistics. 
-I spent two and a half year in Hang Zhou, a semester in HKUST, Hong Kong. Currently I am working in Yale Univerisity, New Haven.
+I spent two and a half year in Hang Zhou, a semester in HKUST, Hong Kong. Currently I am at Yale Univerisity, New Haven.
 
-I have a wild interest in many fields. Currently my reseach interest is on data mining and Large Language Models.I used to  worked in [Center for Data Science](http://cds.zju.edu.cn/) to apply some Deep model to tabular and time series data.Now I am working on training some big model to EEG data to create some thrilling BCI projects at [BrainNet](https://github.com/ZJU-BrainNet). You can visit my homepage to learn more.
+I am broadly interest in NLP, especially in RAG and long-context LLMs. Becides research, I like photography and trading.
 
-If you are interested in anything about me, drop me an email. I am happy and enthusiatic to reach out!😀
+If you are interested in talking anything with me, please drop me an email. I am happy and enthusiatic to reach out!😀
 
